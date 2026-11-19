@@ -1,0 +1,4 @@
+{
+  "plugin.vercel-dns.name": "Vercel",
+  "plugin.vercel-dns.description": "ACME DNS-01 via Vercel."
+}

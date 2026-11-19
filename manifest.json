@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "vercel",
+  "binary": "vercel-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via Vercel.",
+  "display_name_key": "plugin.vercel-dns.name",
+  "icon": "icon.svg",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "vercel-dns",
+  "provider_aliases": [
+    "vercel"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}

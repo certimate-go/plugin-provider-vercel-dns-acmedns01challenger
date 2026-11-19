@@ -1,0 +1,4 @@
+{
+  "plugin.vercel-dns.name": "Vercel",
+  "plugin.vercel-dns.description": "通过 Vercel 完成 ACME DNS-01 验证。"
+}
